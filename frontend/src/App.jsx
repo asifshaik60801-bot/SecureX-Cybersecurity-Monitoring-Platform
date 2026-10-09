@@ -231,7 +231,7 @@ function App() {
           </div>
 
           <div>
-            <strong>CYBERSENTINEL</strong>
+            <strong>🛡️ SecureX</strong>
             <span>SOC // COMMAND CENTER</span>
           </div>
 
@@ -310,7 +310,7 @@ function App() {
           </div>
 
           <small>
-            CYBERSENTINEL v1.0
+            SecureX v1.0
           </small>
 
         </div>
@@ -1374,7 +1374,7 @@ function App() {
           <footer className="soc-footer">
 
             <div>
-              CYBERSENTINEL SECURITY PLATFORM
+              🛡️ SecureX SECURITY PLATFORM
             </div>
 
             <div>

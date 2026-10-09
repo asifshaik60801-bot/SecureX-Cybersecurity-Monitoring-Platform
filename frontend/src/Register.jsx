@@ -73,7 +73,7 @@ function Register({ onRegisterSuccess, onShowLogin }) {
           🛡️
         </div>
 
-        <h1>CyberSentinel</h1>
+        <h1>🛡️ SecureX</h1>
 
         <p className="login-subtitle">
           Cybersecurity Monitoring & Incident Response Platform
@@ -84,7 +84,7 @@ function Register({ onRegisterSuccess, onShowLogin }) {
           <h2>Create Account</h2>
 
           <p className="login-description">
-            Register to access CyberSentinel
+            Register to access SecureX
           </p>
 
           {error && (
@@ -172,7 +172,7 @@ function Register({ onRegisterSuccess, onShowLogin }) {
         </div>
 
         <p className="security-text">
-          🔒 Your account is protected by CyberSentinel
+          🔒 Your account is protected by SecureX
         </p>
 
       </div>

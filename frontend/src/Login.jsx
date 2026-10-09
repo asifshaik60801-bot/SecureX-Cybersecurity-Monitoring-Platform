@@ -25,12 +25,12 @@ function Login({ onLogin, onShowRegister }) {
 
       // Save logged-in user temporarily
       localStorage.setItem(
-  "cyberSentinelUser",
+  "SecureXUser",
   JSON.stringify(response.data)
 );
 
 localStorage.setItem(
-  "cyberSentinelToken",
+  "secureXToken",
   response.data.token
 );
 
@@ -63,7 +63,7 @@ onLogin(response.data);
           🛡️
         </div>
 
-        <h1>CyberSentinel</h1>
+        <h1>🛡️ SecureX</h1>
 
         <p className="login-subtitle">
           Cybersecurity Monitoring & Incident Response Platform
