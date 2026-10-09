@@ -131,3 +131,23 @@ Academic Full-Stack Development Project
 ## 📄 Disclaimer
 
 SecureX is an academic project intended for learning and demonstration. Its security capabilities depend on the implemented features and configuration.
+## 📸 Project Screenshots
+
+### 🔐 Login Page
+
+![SecureX Login Page](screenshots/login.png)
+
+### 📊 Security Dashboard
+
+![SecureX Dashboard](screenshots/dashboard.png)
+
+### 🚨 Security Events
+
+![SecureX Security Events](screenshots/security-events.png)
+
+### 🛡️ Incident Management
+
+![SecureX Incident Management](screenshots/incident-management.png)
+
+
+
